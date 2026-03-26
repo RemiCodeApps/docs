@@ -4,7 +4,7 @@
   "name": "Remi Code",
   "colors": {
     "primary": "#3857D4",
-    "light": "#07C983",
+    "light": "#3857D4",
     "dark": "#3857d4"
   },
   "favicon": "/favicon.svg",
@@ -120,6 +120,7 @@
     }
   },
   "appearance": {
-    "strict": true
+    "strict": true,
+    "default": "dark"
   }
 }
