@@ -70,8 +70,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/dark.png",
-    "dark": "/logo/dark.png"
+    "light": "/logo/banner-mintlify.png",
+    "dark": "/logo/banner-mintlify.png"
   },
   "navbar": {
     "links": [
@@ -108,5 +108,8 @@
   "appearance": {
     "strict": true,
     "default": "dark"
+  },
+  "fonts": {
+    "family": "Geist"
   }
 }
