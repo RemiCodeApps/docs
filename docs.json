@@ -70,8 +70,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/banner-mintlify.png",
-    "dark": "/logo/banner-mintlify.png"
+    "light": "/logo/logo.png",
+    "dark": "/logo/logo.png"
   },
   "navbar": {
     "links": [
